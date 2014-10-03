@@ -1,0 +1,12 @@
+*.pdf
+*~
+*.aux
+*.log
+*.lot
+*.out
+*.bak
+*.synctex
+*.bak
+*.toc
+*.sav
+*.lof
